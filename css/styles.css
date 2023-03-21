@@ -90,8 +90,9 @@ h3 {
 }
 
 .portfolio-box {
-    border:solid;
-    display:inline;
+    width: 300px;
+    display:inline-block;
+    margin: 1rem;
 }
 
 .contact-me {
